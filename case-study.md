@@ -39,15 +39,14 @@ Technical Documentation needs to be accessible which is why tech docs are most b
 
 To onboard new and existing developers to the Ethereum Classic ecosystem.
 
-### Problems
+### Issues
 
 * Crypto community tends to be unaware of ETH/ ETC development compatibilities.
 * Ethereum and Ethereum Classic protocols tend to have legacy documentation that's not maintained.
 * Crypto community tends to struggle finding educational materials to becoming ETC developers.
 * dApps have higher demand than dApp developers available
-* It's a valuable contribution to the ETC community 💚
 * Sexier documentation is a temptation always worth exploring #YOLO
 
 
 
-* **Decentralized Applications** `dApps` are web applications that integrate the Ethereum Classic `ETC` network to store, transmit, and interact with value.
+**Decentralized Applications** `dApps` are web applications that integrate the Ethereum Classic `ETC` network to store, transmit, and interact with value.
