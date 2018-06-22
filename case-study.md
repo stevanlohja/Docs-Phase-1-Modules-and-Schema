@@ -33,9 +33,6 @@ Think of modularity of content as steps to achieve a particular competency. Lear
 
 Technical Documentation needs to be accessible which is why tech docs are most broadly accessed through digital implementation.
 
----
-
-
 ## <a name="anchor2"></a>Documentation for Ethereum Classic
 
 ### Mission
