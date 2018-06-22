@@ -3,7 +3,7 @@
 ### Table of Contents
 
 * [What is Technical Documentation](#anchor1)
-* [What is Technical Documentation](#anchor2)
+* [Documentation for Ethereum Classic](#anchor2)
 
 
 
@@ -33,6 +33,24 @@ Think of modularity of content as steps to achieve a particular competency. Lear
 
 Technical Documentation needs to be accessible which is why tech docs are most broadly accessed through digital implementation.
 
-## What do developers do with Ethereum Classic?<a name="anchor2"></a>
+---
+
+
+## <a name="anchor2"></a>Documentation for Ethereum Classic
+
+### Mission
+
+To onboard new and existing developers to the Ethereum Classic ecosystem.
+
+### Problems
+
+* Crypto community tends to be unaware of ETH/ ETC development compatibilities.
+* Ethereum and Ethereum Classic protocols tend to have legacy documentation that's not maintained.
+* Crypto community tends to struggle finding educational materials to becoming ETC developers.
+* dApps have higher demand than dApp developers available
+* It's a valuable contribution to the ETC community 💚
+* Sexier documentation is a temptation always worth exploring #YOLO
+
+
 
 * **Decentralized Applications** `dApps` are web applications that integrate the Ethereum Classic `ETC` network to store, transmit, and interact with value.
