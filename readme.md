@@ -17,6 +17,6 @@ To onboard new and existing developers to the Ethereum Classic ecosystem.
 
 ## Table of Contents
 
-[Documentation proposal](media/doc-schema-example.png)
+[Documentation proposal](https://github.com/stevanlohja/etc-docs/blob/master/case-study.md)
 
 ## Modules
