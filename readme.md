@@ -15,6 +15,8 @@ To onboard new and existing developers to the Ethereum Classic ecosystem.
 * It's a valuable contribution to the ETC community 💚
 * Sexier documentation is a temptation always worth exploring #YOLO
 
+## Table of Contents
 
+[Documentation proposal](media/doc-schema-example.png)
 
 ## Modules
