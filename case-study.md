@@ -1,6 +1,13 @@
 #  Technical Documentation
 
-## What is Technical Documentation?
+### Table of Contents
+
+* [What is Technical Documentation](#anchor1)
+* [What is Technical Documentation](#anchor2)
+
+
+
+## <a name="anchor1"></a>What is Technical Documentation?
 
 * Contains information on a particular product.
 * Modular topics.
@@ -12,20 +19,20 @@
 
 All these docs provide information or guidance to do something.
 
-## Structured Content / Standardized Content
+### Structured Content / Standardized Content
 
 Structured content defines the schema of the technical document. Document schema defines the elements within a technical document. Industries have different needs and requirements therefore there is no universal document schema.
 
-## Modularity of Content
+### Modularity of Content
 
 Think of modularity of content as steps to achieve a particular competency. Learning Arithmetic can be divided into modules to - *do Arithmetic*.
 
 ![doc-schema-example.png](media/case-study/doc-schema-example.png)
 
-## Distributed Content
+### Distributed Content
 
 Technical Documentation needs to be accessible which is why tech docs are most broadly accessed through digital implementation.
 
-## What do developers do with Ethereum Classic?
+## What do developers do with Ethereum Classic?<a name="anchor2"></a>
 
 * **Decentralized Applications** `dApps` are web applications that integrate the Ethereum Classic `ETC` network to store, transmit, and interact with value.
