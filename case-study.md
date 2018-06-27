@@ -150,4 +150,13 @@ ex:
 
 ![etc-module](media/case-study/etc-module-tbd.png)
 
-In a broader context
+# Suggested Missions to Do Now
+- Use GitBook.
+- Interview Devs regarding Ethereum development workflow and competencies needed.
+- Create list of modules/ competencies that make up an Ethereum Classic developer.
+- Determine an example dApp that would be an end project to the documentation.
+- Create content for modules
+- Implement content on GitBook
+
+# Suggested Missions to Do Later
+- Customize the default GitBook site and implement onto docs domain.
