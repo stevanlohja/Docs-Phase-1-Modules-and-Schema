@@ -1,22 +1,3 @@
-# ETCDEV Team - ETC Documentation Initiative
+# Documentation Phase 1 - Modularization and Schema.
 
-This repository is a research and planning of fundamental technical documentation for Ethereum/ Ethereum Classic developers.
-
-## Mission
-
-To onboard new and existing developers to the Ethereum Classic ecosystem.
-
-## Problems
-
-* Crypto community tends to be unaware of ETH/ ETC development compatibilities.
-* Ethereum and Ethereum Classic protocols tend to have legacy documentation that's not maintained.
-* Crypto community tends to struggle finding educational materials to becoming ETC developers.
-* dApps have higher demand than dApp developers available
-* It's a valuable contribution to the ETC community 💚
-* Sexier documentation is a temptation always worth exploring #YOLO
-
-## Table of Contents
-
-[Documentation proposal](https://github.com/stevanlohja/etc-docs/blob/master/case-study.md)
-
-## Modules
+This repo contains the modularization and schema for etc dapp development.
