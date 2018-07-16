@@ -23,7 +23,7 @@
 ---
 * Emerald SDK
   * 0 - Syllabus
-    * How to create a Smart Contract from scratch
+    *  How to create a Smart Contract from scratch
     *  How to deploy Smart Contracts on ropsten
     *  How to create the frontend of the Dapp
     *  How to connect the deployed contract with your application
